@@ -1,4 +1,8 @@
-# atcoder_python
+# atcoder_python  
+
+## 進捗  
+clone終了。
+前回はコンテナが開き切るのを待てなかった。あとaccコマンドがまだ使えないようだ。
 ## Description  
 * Reproduction of python3 and pypy environment in atcoder on VSCode.
 * The atcoder-cli and online-judge-tools for automated testing and submission.
